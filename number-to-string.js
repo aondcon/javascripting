@@ -1,2 +1,3 @@
-var n = 128;
-console.log(n.toString());
+var numberToConvertToString = 128;
+var stringConvertFromNumber = numberToConvertToString.toString();
+console.log(stringConvertFromNumber);
